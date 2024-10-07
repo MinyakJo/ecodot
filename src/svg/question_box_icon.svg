@@ -1,0 +1,28 @@
+<svg width="337" height="307" viewBox="0 0 337 307" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_174_26)">
+<path d="M6 161.146L122.5 62.1465L322.5 88.1465L248 222.646L6 161.146Z" fill="#E6E6E6"/>
+<path d="M8 209.646L6 161.146L248 222.646V291.646L8 209.646Z" fill="#B6B6B6"/>
+<path d="M319.5 142.146L322.5 88.1465L248 222.646V292.146L319.5 142.146Z" fill="#999999"/>
+</g>
+<path d="M161.35 76.6465C157.75 53.5465 182.65 43.9465 182.65 31.6465C182.65 24.8965 178 21.5965 171.85 21.5965C165.7 21.5965 161.35 24.7465 156.7 29.3965L142 15.8965C150.25 6.44648 161.65 0.146484 175.15 0.146484C193.9 0.146484 208.3 8.99648 208.3 29.8465C208.3 50.6965 182.65 56.8465 184.6 76.6465H161.35ZM172.9 119.246C163.6 119.246 157 111.896 157 102.596C157 93.2965 163.6 86.0965 172.9 86.0965C182.05 86.0965 188.8 93.2965 188.8 102.596C188.8 111.896 182.05 119.246 172.9 119.246Z" fill="#545454"/>
+<g filter="url(#filter1_f_174_26)">
+<path d="M169.094 133.854C167.296 141.21 187.781 140.888 188.365 144.559C188.686 146.574 185.103 148.155 180.156 148.942C175.209 149.73 171.56 149.346 167.599 148.553L156.417 154.465C163.502 156.23 172.971 156.651 183.829 154.923C198.911 152.522 210.073 148.036 209.082 141.812C208.092 135.589 187.168 137.037 187.795 130.877L169.094 133.854ZM176.36 119.658C168.88 120.849 163.92 123.888 164.362 126.664C164.804 129.44 170.455 130.745 177.936 129.554C185.295 128.382 190.383 125.369 189.941 122.593C189.499 119.817 183.72 118.487 176.36 119.658Z" fill="#969696"/>
+</g>
+<defs>
+<filter id="filter0_d_174_26" x="0" y="56.1465" width="336.5" height="250" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_174_26"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_174_26" result="shape"/>
+</filter>
+<filter id="filter1_f_174_26" x="151.417" y="114.232" width="62.7266" height="46.792" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.5" result="effect1_foregroundBlur_174_26"/>
+</filter>
+</defs>
+</svg>
